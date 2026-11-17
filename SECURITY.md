@@ -11,7 +11,7 @@ Report privately through either of these channels:
 
 1. **GitHub private vulnerability reporting** — on the affected repository, open the
    **Security** tab → **Report a vulnerability**.
-2. **Email** — <security@decuff.ai>. Encrypt sensitive details if possible.
+2. **Email** — <support@decuff.ai>. Encrypt sensitive details if possible.
 
 Please include:
 
